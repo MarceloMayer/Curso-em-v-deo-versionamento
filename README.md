@@ -1,2 +1,3 @@
 # Curso em vídeo versionamento
- estudo de versionamento
+ Estudo de versionamento
+ Repositório criado em uma aula ao vivo
